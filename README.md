@@ -1,3 +1,4 @@
+```javascript
 string sCallBack = @"
     Sys.Application.add_load( 
        function() { if ( parent.document.getElementById('frame1') != null ) {               
